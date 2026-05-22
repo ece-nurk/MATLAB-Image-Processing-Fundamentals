@@ -51,6 +51,7 @@ Convolution operations
 Built-in high-level MATLAB functions were avoided whenever possible in order to better understand the underlying mathematical principles.
 
 ## Tech Stack
+
 MATLAB
 MATLAB App Designer
 Image Processing Toolbox

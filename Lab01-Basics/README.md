@@ -1,9 +1,9 @@
-#Lab 01: Fundamental Image Processing Algorithms
+# Lab 01: Fundamental Image Processing Algorithms
 
   This repository contains introductory MATLAB implementations of fundamental image processing and recognition techniques.
   The study focuses on pixel-level operations, matrix-based image manipulation, and foundational computer vision concepts relevant to autonomous systems.
 
-##Technical Concepts
+## Technical Concepts
 
 1. Color Channel Manipulation
 Green and Blue channel swapping
@@ -28,16 +28,16 @@ Binary segmentation using multiple threshold levels
 Histogram analysis with different bin sizes
 Pixel intensity distribution examination
 
-##Environment & Tools
+## Environment & Tools
 
 MATLAB
 Image Processing Toolbox
 
-##MATLAB Functions Used
+## MATLAB Functions Used
 
 imread, imresize, imrotate, imnoise, imhist, imbinarize
 
-##File Structure
+## File Structure
 
 exercise1.m → Main MATLAB script
 image.png → Source image

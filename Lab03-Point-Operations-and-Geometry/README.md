@@ -55,10 +55,15 @@ Manual implementation of geometric operations
 ## Files
 
 exercise3.m   -> Core image processing functions
+
 app1.mlapp    -> Interactive GUI
+
 img.jpg       -> Input image
+
 star.jpg      -> Input image
-Environment
+
+## Environment
+
 MATLAB
 MATLAB App Designer
 Notes

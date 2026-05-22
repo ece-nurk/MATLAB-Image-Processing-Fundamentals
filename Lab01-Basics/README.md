@@ -42,3 +42,5 @@ imread, imresize, imrotate, imnoise, imhist, imbinarize
 exercise1.m → Main MATLAB script
 image.png → Source image
 Tr.jpg → Target image for ROI operations
+
+Developed as part of the Image Processing & Recognition course at Czestochowa University of Technology.
